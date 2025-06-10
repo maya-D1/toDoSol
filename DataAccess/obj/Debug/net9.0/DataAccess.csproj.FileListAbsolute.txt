@@ -1,0 +1,12 @@
+C:\Users\PcMax\Desktop\toDoSol\DataAccess\bin\Debug\net9.0\DataAccess.deps.json
+C:\Users\PcMax\Desktop\toDoSol\DataAccess\bin\Debug\net9.0\DataAccess.dll
+C:\Users\PcMax\Desktop\toDoSol\DataAccess\bin\Debug\net9.0\DataAccess.pdb
+C:\Users\PcMax\Desktop\toDoSol\DataAccess\obj\Debug\net9.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PcMax\Desktop\toDoSol\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\PcMax\Desktop\toDoSol\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfo.cs
+C:\Users\PcMax\Desktop\toDoSol\DataAccess\obj\Debug\net9.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PcMax\Desktop\toDoSol\DataAccess\obj\Debug\net9.0\DataAccess.sourcelink.json
+C:\Users\PcMax\Desktop\toDoSol\DataAccess\obj\Debug\net9.0\DataAccess.dll
+C:\Users\PcMax\Desktop\toDoSol\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
+C:\Users\PcMax\Desktop\toDoSol\DataAccess\obj\Debug\net9.0\DataAccess.pdb
+C:\Users\PcMax\Desktop\toDoSol\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll
